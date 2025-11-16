@@ -20,7 +20,7 @@ The purpose of this project was to create a simple QR code component. The images
 
 ### Screenshot
 
-![](images/image-qr-code.png)
+![](images/final-project-screenshot.png)
 
 ### Links
 
